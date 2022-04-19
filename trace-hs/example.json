@@ -1,0 +1,14 @@
+{
+    "symbols": "wxyz",
+    "alphabet": "abcdefg",
+    "operations": {
+        "a": "x = 2z",
+        "b": "y = w + z",
+        "c": "z = x + y",
+        "d": "x = y + w",
+        "e": "w = x + y",
+        "f": "y = 2w",
+        "g": "z = w + 2y"
+    },
+    "word": "fabegdacf"
+}

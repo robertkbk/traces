@@ -1,0 +1,10 @@
+{
+  "symbols": "xyz",
+  "alphabet-but-with-typo": "abc",
+  "operations": {
+    "a": "x = y + z",
+    "b": "y = x + z",
+    "c": "z = x + y"
+  },
+  "word": "abccba"
+}
